@@ -1,4 +1,3 @@
-# Latihan Melakukan Squash Changes
+# Ini adalah repository untuk latihan membuat branch baru di GitHub.
 
-Nama
-NIM
+GitHub itu asyik lo.
